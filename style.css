@@ -28,6 +28,13 @@
     gap: 20px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+}
+
 a {
     text-decoration: none;
     color: #e5e7eb;
